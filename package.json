@@ -1,0 +1,9 @@
+{
+  "name": "cryptojs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsencrypt": "^3.0.0-rc.1"
+  }
+}
