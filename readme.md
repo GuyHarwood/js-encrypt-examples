@@ -1,4 +1,6 @@
 # JS Encrypt example 
 
-uses Asymmetric encryption & digital signatures.
+Original - https://github.com/travist/jsencrypt
+
+Node version - https://github.com/ArnaudValensi/node-jsencrypt
 
