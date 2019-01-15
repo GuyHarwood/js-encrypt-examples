@@ -1,4 +1,4 @@
-# JS Encrypt example 
+# JS Encrypt examples
 
 Original - https://github.com/travist/jsencrypt
 
