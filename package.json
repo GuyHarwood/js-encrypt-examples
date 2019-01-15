@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "jsencrypt": "^3.0.0-rc.1"
+    "moment": "^2.23.0",
+    "node-jsencrypt": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
   }
 }
